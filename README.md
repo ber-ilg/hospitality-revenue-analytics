@@ -99,11 +99,11 @@ jupyter notebook
 ```
 
 ### Execution Order
-1. `01_data_preparation.ipynb` - Clean and prepare data
+1. `01_Data_Preparation.ipynb` - Clean and prepare data
 2. `02_sql_database.ipynb` - Create database and load data
 3. `03_analysis_insights.ipynb` - Generate business insights
-4. `04_revenue_forecasting.ipynb` - Run forecasting models
-5. `05_overbooking_simulation.ipynb` - Execute Monte Carlo simulation
+4. `04_revenue_forecasting_moving_average.ipynb` - Run forecasting models
+5. `05_montecarlo_sim_overbooking.ipynb` - Execute Monte Carlo simulation
 6. Open `power_bi_file.pbix` for interactive dashboards
 
 ## 💼 Skills Demonstrated
