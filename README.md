@@ -11,7 +11,7 @@
 This analytics suite was developed to address key challenges in hospitality revenue management:
 - **Demand Forecasting** - 90-day forward visibility with <6% MAE
 - **Revenue Optimization** - Moving average forecasting for seasonal patterns
-- **Overbooking Strategy** - Monte Carlo simulation reducing lost revenue by 15%
+- **Overbooking Strategy** - Monte Carlo simulation reducing lost revenue by 23%
 - **Executive Insights** - Power BI dashboards tracking ADR, RevPAR, and occupancy
 
 **Business Impact**: Simulation shows potential 12% revenue increase (£180K annually for a 200-room hotel)
@@ -70,10 +70,10 @@ This analytics suite was developed to address key challenges in hospitality reve
 
 ### Sample Visualizations
 
-![Revenue Trends](dashboards/dashboard_screenshots/executive_overview.png)
+![Revenue Trends](executive_overview.png)
 *Executive dashboard showing year-over-year revenue trends and key metrics*
 
-![Forecast Accuracy](dashboards/dashboard_screenshots/forecasting_view.png)
+![Forecast Accuracy](forecasting_insights.png)
 *90-day demand forecast with actual vs predicted comparison*
 
 ## 🚀 How to Run This Project
@@ -132,8 +132,7 @@ jupyter notebook
 
 **Berke Ilgun**  
 📧 berke.ilgun.uk@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/berkeilgun/)  
-📊 [Portfolio Website](#) *(if you create one)*
+🔗 [LinkedIn](www.linkedin.com/in/berke-ilgun-8107a8a9)  
 
 ## 📝 License
 
